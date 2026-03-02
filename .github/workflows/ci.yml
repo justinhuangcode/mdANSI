@@ -59,7 +59,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: dtolnay/rust-toolchain@1.85
+      - uses: dtolnay/rust-toolchain@1.100
       - uses: Swatinem/rust-cache@v2
       # Remove lockfile so old Cargo resolves compatible dependency versions
       - run: rm -f Cargo.lock && cargo check --lib --bin mdansi
