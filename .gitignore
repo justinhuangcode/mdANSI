@@ -1,0 +1,12 @@
+/target
+
+# Editor files
+*.swp
+*.swo
+*~
+.DS_Store
+.idea/
+.vscode/
+
+# OS files
+Thumbs.db

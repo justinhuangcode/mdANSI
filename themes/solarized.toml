@@ -1,0 +1,81 @@
+# mdANSI Solarized Dark Theme
+# Based on https://ethanschoonover.com/solarized/
+
+[heading1]
+fg = "#b58900"
+bold = true
+
+[heading2]
+fg = "#859900"
+bold = true
+
+[heading3]
+fg = "#2aa198"
+bold = true
+
+[heading4]
+fg = "#268bd2"
+bold = true
+
+[heading5]
+fg = "#6c71c4"
+bold = true
+
+[heading6]
+fg = "#d33682"
+bold = true
+
+[paragraph]
+fg = "#839496"
+
+[emphasis]
+fg = "#839496"
+italic = true
+
+[strong]
+fg = "#93a1a1"
+bold = true
+
+[strikethrough]
+fg = "#586e75"
+strikethrough = true
+
+[inline_code]
+fg = "#2aa198"
+
+[code_block]
+fg = "#839496"
+
+[code_border]
+fg = "#586e75"
+
+[code_lang_label]
+fg = "#586e75"
+italic = true
+
+[blockquote]
+fg = "#586e75"
+italic = true
+
+[blockquote_bar]
+fg = "#586e75"
+
+[link_text]
+fg = "#268bd2"
+underline = true
+
+[link_url]
+fg = "#586e75"
+
+[list_bullet]
+fg = "#2aa198"
+
+[table_border]
+fg = "#586e75"
+
+[table_header]
+fg = "#93a1a1"
+bold = true
+
+[thematic_break]
+fg = "#586e75"

@@ -1,0 +1,93 @@
+# mdANSI Dracula Theme
+# Based on https://draculatheme.com/
+
+[heading1]
+fg = "#bd93f9"
+bold = true
+
+[heading2]
+fg = "#50fa7b"
+bold = true
+
+[heading3]
+fg = "#8be9fd"
+bold = true
+
+[heading4]
+fg = "#ff79c6"
+bold = true
+
+[heading5]
+fg = "#ffb86c"
+bold = true
+
+[heading6]
+fg = "#f1fa8c"
+bold = true
+
+[paragraph]
+fg = "#f8f8f2"
+
+[emphasis]
+fg = "#f8f8f2"
+italic = true
+
+[strong]
+fg = "#ffb86c"
+bold = true
+
+[strikethrough]
+fg = "#6272a4"
+strikethrough = true
+
+[inline_code]
+fg = "#8be9fd"
+
+[code_block]
+fg = "#f8f8f2"
+
+[code_border]
+fg = "#6272a4"
+
+[code_lang_label]
+fg = "#6272a4"
+italic = true
+
+[blockquote]
+fg = "#6272a4"
+italic = true
+
+[blockquote_bar]
+fg = "#bd93f9"
+
+[link_text]
+fg = "#8be9fd"
+underline = true
+
+[link_url]
+fg = "#6272a4"
+
+[list_bullet]
+fg = "#50fa7b"
+
+[list_number]
+fg = "#50fa7b"
+
+[task_done]
+fg = "#50fa7b"
+
+[task_pending]
+fg = "#6272a4"
+
+[table_border]
+fg = "#6272a4"
+
+[table_header]
+fg = "#bd93f9"
+bold = true
+
+[table_cell]
+fg = "#f8f8f2"
+
+[thematic_break]
+fg = "#6272a4"

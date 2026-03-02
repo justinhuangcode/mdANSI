@@ -1,0 +1,76 @@
+# mdANSI Default Theme
+# Colors: named (red, green, blue...), hex (#ff5733), or 256-palette index (42)
+
+[heading1]
+fg = "yellow"
+bold = true
+
+[heading2]
+fg = "green"
+bold = true
+
+[heading3]
+fg = "cyan"
+bold = true
+
+[heading4]
+fg = "blue"
+bold = true
+
+[heading5]
+fg = "magenta"
+bold = true
+
+[heading6]
+fg = "magenta"
+bold = true
+dim = true
+
+[emphasis]
+italic = true
+
+[strong]
+bold = true
+
+[strikethrough]
+strikethrough = true
+dim = true
+
+[inline_code]
+fg = "cyan"
+
+[code_block]
+fg = "green"
+
+[code_border]
+dim = true
+
+[code_lang_label]
+dim = true
+italic = true
+
+[blockquote]
+italic = true
+dim = true
+
+[blockquote_bar]
+fg = "gray"
+
+[link_text]
+fg = "blue"
+underline = true
+
+[link_url]
+fg = "gray"
+
+[list_bullet]
+fg = "cyan"
+
+[table_border]
+dim = true
+
+[table_header]
+bold = true
+
+[thematic_break]
+dim = true
