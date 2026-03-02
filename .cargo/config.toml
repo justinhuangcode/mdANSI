@@ -1,0 +1,5 @@
+[resolver]
+# Allow resolver to pick dependency versions that require newer Rust than our MSRV.
+# Dev-dependencies (criterion -> time) may require newer toolchains.
+# This prevents MSRV CI from failing due to transitive dev-dependency constraints.
+incompatible-rust-versions = "fallback"
