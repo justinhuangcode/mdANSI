@@ -6,7 +6,7 @@
 [![Crates.io](https://img.shields.io/crates/v/mdansi?style=flat-square)](https://crates.io/crates/mdansi)
 [![docs.rs](https://img.shields.io/docsrs/mdansi?style=flat-square)](https://docs.rs/mdansi)
 [![License](https://img.shields.io/crates/l/mdansi?style=flat-square)](LICENSE-MIT)
-[![Rust](https://img.shields.io/badge/rust-1.75%2B-orange?style=flat-square)](https://www.rust-lang.org)
+[![Rust](https://img.shields.io/badge/rust-1.85%2B-orange?style=flat-square)](https://www.rust-lang.org)
 [![GitHub Stars](https://img.shields.io/github/stars/justinhuangcode/mdANSI?style=flat-square)](https://github.com/justinhuangcode/mdANSI/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/justinhuangcode/mdANSI?style=flat-square)](https://github.com/justinhuangcode/mdANSI/commits/main)
 [![Issues](https://img.shields.io/github/issues/justinhuangcode/mdANSI?style=flat-square)](https://github.com/justinhuangcode/mdANSI/issues)
