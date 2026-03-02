@@ -24,7 +24,7 @@ path = "src/main.rs"
 
 [dependencies]
 # Markdown parsing — most complete GFM implementation in pure Rust
-comrak = { version = "0.31", default-features = false, features = ["shortcodes"] }
+comrak = { version = "0.50", default-features = false, features = ["shortcodes"] }
 
 # Syntax highlighting — same engine as Sublime Text / VS Code
 syntect = { version = "5", default-features = false, features = ["default-fancy"] }
