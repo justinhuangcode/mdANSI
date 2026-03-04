@@ -1,4 +1,4 @@
-# mdANSI
+# MdANSI
 
 **English** | [中文](./README_CN.md)
 
@@ -12,11 +12,11 @@
 [![Issues](https://img.shields.io/github/issues/justinhuangcode/mdANSI?style=flat-square)](https://github.com/justinhuangcode/mdANSI/issues)
 [![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-blue?style=flat-square)]()
 
-A blazing-fast Markdown-to-ANSI terminal renderer with built-in syntax highlighting, streaming mode for LLM output, and TOML-configurable themes. Single binary, zero runtime dependencies.
+A blazing-fast Markdown-to-ANSI CLI for terminal rendering, LLM streaming, and syntax highlighting. 📝
 
 ---
 
-## Why mdANSI?
+## Why MdANSI?
 
 | Criteria | mdANSI | [Markdansi](https://github.com/nicholasgasior/markdansi) | [mdcat](https://github.com/swsnr/mdcat) | [glow](https://github.com/charmbracelet/glow) |
 |----------|--------|-----------|-------|------|

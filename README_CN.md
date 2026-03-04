@@ -1,4 +1,4 @@
-# mdANSI
+# MdANSI
 
 [English](./README.md) | **中文**
 
@@ -12,11 +12,11 @@
 [![Issues](https://img.shields.io/github/issues/justinhuangcode/mdANSI?style=flat-square)](https://github.com/justinhuangcode/mdANSI/issues)
 [![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-blue?style=flat-square)]()
 
-高性能 Markdown 终端渲染器，内置语法高亮、LLM 流式输出支持、TOML 主题配置。单一二进制文件，零运行时依赖。
+极速 Markdown 转 ANSI 命令行工具，支持终端渲染、LLM 流式输出与语法高亮。 📝
 
 ---
 
-## 为什么选择 mdANSI？
+## 为什么选择 MdANSI？
 
 | 对比项 | mdANSI | [Markdansi](https://github.com/nicholasgasior/markdansi) | [mdcat](https://github.com/swsnr/mdcat) | [glow](https://github.com/charmbracelet/glow) |
 |--------|--------|-----------|-------|------|
