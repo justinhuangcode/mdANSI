@@ -61,7 +61,7 @@ jobs:
         run: |
           Compress-Archive -Path target/${{ matrix.target }}/release/mdansi.exe -DestinationPath mdansi-${{ matrix.target }}.zip
 
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v7
         with:
           name: mdansi-${{ matrix.target }}
           path: mdansi-${{ matrix.target }}.${{ matrix.archive }}
