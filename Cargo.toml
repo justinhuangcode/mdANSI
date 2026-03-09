@@ -40,7 +40,7 @@ clap = { version = "4", features = ["derive", "env", "wrap_help"] }
 
 # Serialization for themes
 serde = { version = "1", features = ["derive"] }
-toml = "0.8"
+toml = "1.0"
 
 # Strip ANSI escape codes for width calculation
 strip-ansi-escapes = "0.2"
